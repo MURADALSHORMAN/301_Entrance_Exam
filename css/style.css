@@ -1,0 +1,122 @@
+
+html{
+
+    color: #fff;
+    background-image: url(../imgs/bk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    background-color:#00000096;
+    width:100%;
+    height: 70px;
+
+}
+
+h1{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    padding: 25px;
+}
+
+
+
+#tableinfo{
+
+    background-color: #00000096;
+    padding: 30px;
+    width:fit-content;
+    height: :fit-content;
+    position:absolute;
+    left:60%;
+    top:15%;
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+#Employeeinfo{
+
+    background-color: #00000096;
+    padding:40px;
+    width:fit-content;
+    height: :fit-content;
+    position:absolute;
+    left:20%;
+    top:12%;
+}
+
+#newtable > tr{
+    padding: 10px;
+    margin: auto;
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+
+}
+
+#newtable > tr > td{
+
+    padding: 10px;
+    margin: auto;
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+
+}
+
+
+#newtable > p{
+margin-top: 10px;
+margin-bottom: 10px;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid rgb(255, 255, 255);
+    
+    border-collapse: collapse;
+
+    position: relative;
+    top: 20px;
+}
+
+#Employeeinfo > h3{
+    text-align: center;
+}
+
+
+#Employeeinfo > label{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#emil{
+    width: 240px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+
+#ename{
+    width: 240px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+#Employeeinfo > input[type=submit]:nth-child(18){
+    width: 240px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#Department{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
